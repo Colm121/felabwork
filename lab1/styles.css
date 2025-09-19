@@ -8,9 +8,12 @@ body{
 }
 h1{
     font-size: 40px;
+    color: darkgreen;
 }
 p{
     font-size: 20px;
+    margin: 2em;
+    text-indent: 5px;
 }
 li{
     margin: 1em;
@@ -18,4 +21,5 @@ li{
 footer{
     text-align: center;
     font-weight: bold;
+    color: darkgreen;
 }
